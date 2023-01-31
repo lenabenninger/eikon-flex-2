@@ -63,4 +63,11 @@
 }
 
 /* 9. exercice-all-2 */
+.exercice-all-2 .container-big {
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: center;
+  align-items: center;
+
+}
 
