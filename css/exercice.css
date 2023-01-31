@@ -45,6 +45,12 @@
 }
 
 /* 7. exercice-align-3 */
+.exercice-align-3 .container-big {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
 
 
 /* 8. exercice-all-1 */
